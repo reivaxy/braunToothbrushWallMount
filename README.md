@@ -1,6 +1,6 @@
 # Braun toothbrush wall mount
 
 
-<img src="https://github.com/reivaxy/braunToothbrushWallMount/blob/master/resources/braunToothBrushWallMount.jpg" width=500/>
+<img src="https://raw.githubusercontent.com/reivaxy/braunToothbrushWallMount/master/ressources/braunToothbrushWallMount.jpg" width=500/>
 
 
